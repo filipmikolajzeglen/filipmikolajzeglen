@@ -9,7 +9,7 @@ Currently I'm focused on web development with Spring and Java 11. 🎖</p>
 
 | | name:        | language | what I have learned |
 |-| :----------: | :------: | ------------------- |
-|🇬🇧| [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;game&nbsp;of&nbsp;life&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://github.com/filipmikolajzeglen/GOL) | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, move semantics, constexpr, exceptions, advanced concurrency with futures and complex threads managements.
+|🇬🇧| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[game&nbsp;of&nbsp;life](https://github.com/filipmikolajzeglen/GOL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, move semantics, constexpr, exceptions, advanced concurrency with futures and complex threads managements.
 |🇬🇧| [java&nbsp;projects](https://github.com/filipmikolajzeglen) | JAVA | Need to update and add all Java projects ... 🚧
 |🇬🇧| [js&nbsp;projects](https://github.com/filipmikolajzeglen) | JAVASCRIPT | Need to update and add all JavaScript projects ... 🚧
 
@@ -17,7 +17,7 @@ Currently I'm focused on web development with Spring and Java 11. 🎖</p>
 
 |  | name:      | what I have learned |
 |--| :--------: | ------------------- |
-|🇬🇧|  [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;js&nbsp;project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript) | [1. JavaScript](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
+|🇬🇧|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[js&nbsp;project](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [1. JavaScript](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
 
 - 🦣 **Math, physics & engineering notes**
 
