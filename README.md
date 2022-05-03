@@ -10,8 +10,8 @@ Currently I'm focused on web development with Spring and Java 11. 🎖</p>
 | | name:        | language | what I have learned |
 |-| :----------: | :------: | ------------------- |
 |🇬🇧| [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;game&nbsp;of&nbsp;life&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://github.com/filipmikolajzeglen/GOL) | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, move semantics, constexpr, exceptions, advanced concurrency with futures and complex threads managements.
-|🇬🇧| [java&nbsp;projects](https://github.com/gregwell/algorithms-and-data-structures) | JAVA | Need to update and add all Java projects ... 🚧
-|🇬🇧| [js&nbsp;projects](https://github.com/gregwell/db2020) | JAVASCRIPT | Need to update and add all JavaScript projects ... 🚧
+|🇬🇧| [java&nbsp;projects](https://github.com/filipmikolajzeglen) | JAVA | Need to update and add all Java projects ... 🚧
+|🇬🇧| [js&nbsp;projects](https://github.com/filipmikolajzeglen) | JAVASCRIPT | Need to update and add all JavaScript projects ... 🚧
 
 - 🐊 **Programming - notes only**
 
