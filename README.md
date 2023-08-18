@@ -9,7 +9,7 @@ Currently I'm focused on web development with Spring/Spring boot and Java 11/17.
 
 | | name:        | language | what I have learned |
 |-| :----------: | :------: | ------------------- |
-|🇬🇧| [FMZ&nbsp;Video&nbsp;player](https://github.com/filipmikolajzeglen/fmz-video-player) | JAVA | DDD, Java FX, Creating built-in databases and logging features. Understanding how media players works and understanding how to use a module-info in java project. 
+|🇬🇧| [fmz-video-player](https://github.com/filipmikolajzeglen/fmz-video-player) | JAVA | DDD, Java FX, Creating built-in databases and logging features. Understanding how media players works and understanding how to use a module-info in java project. 
 |🇬🇧| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[game&nbsp;of&nbsp;life](https://github.com/filipmikolajzeglen/GOL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, move semantics, constexpr, exceptions, advanced concurrency with futures and complex threads managements.
 
 
