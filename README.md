@@ -1,7 +1,7 @@
 # Hi, I'm Filip 👋 
 
 <p align="left">Dear Recruiters - Please contact me via email/linkedin. 📫<br/>
-Currently I'm focused on web development with Spring and Java 11. 🎖</p>
+Currently I'm focused on web development with Spring/Spring boot and Java 11/17. 🎖</p>
 
 ## The complete list of my projects:
 
@@ -9,9 +9,9 @@ Currently I'm focused on web development with Spring and Java 11. 🎖</p>
 
 | | name:        | language | what I have learned |
 |-| :----------: | :------: | ------------------- |
+|🇬🇧| [FMZ&nbsp;Video&nbsp;player](https://github.com/filipmikolajzeglen/fmz-video-player) | JAVA | DDD, Java FX, Creating built-in databases and logging features. Understanding how media players works and understanding how to use a module-info in java project. 
 |🇬🇧| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[game&nbsp;of&nbsp;life](https://github.com/filipmikolajzeglen/GOL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, move semantics, constexpr, exceptions, advanced concurrency with futures and complex threads managements.
-|🇬🇧| [java&nbsp;projects](https://github.com/filipmikolajzeglen) | JAVA | Need to update and add all Java projects ... 🚧
-|🇬🇧| [js&nbsp;projects](https://github.com/filipmikolajzeglen) | JAVASCRIPT | Need to update and add all JavaScript projects ... 🚧
+
 
 - 🐊 **Programming - notes only**
 
