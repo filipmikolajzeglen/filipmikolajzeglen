@@ -9,9 +9,9 @@ Currently I'm focused on web development with Spring/Spring boot and Java 11/17.
 
 | | name:        | language | what I have learned |
 |-| :----------: | :------: | ------------------- |
+|🇬🇧| [fmz-english-trainer](https://github.com/filipmikolajzeglen/fmz-english-trainer) | JAVA | DDD, Vaadin, CSS, PostgreSQL, Flyway, Spring boot, Lombok, Design Patterns, Architecture patterns. Refresh skills. Work in progress 🚧 
 |🇬🇧| [fmz-video-player](https://github.com/filipmikolajzeglen/fmz-video-player) | JAVA | DDD, Java FX, Creating built-in databases and logging features. Understanding how media players works and understanding how to use a module-info in java project. 
-|🇬🇧| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[game&nbsp;of&nbsp;life](https://github.com/filipmikolajzeglen/GOL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, move semantics, constexpr, exceptions, advanced concurrency with futures and complex threads managements.
-
+|🇬🇧| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[game&nbsp;of&nbsp;life](https://github.com/filipmikolajzeglen/GOL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, move semantics, advanced concurrency with futures and complex threads managements.
 
 - 🐊 **Programming - notes only**
 
