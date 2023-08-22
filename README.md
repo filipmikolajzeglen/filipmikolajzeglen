@@ -7,11 +7,11 @@ Currently I'm focused on web development with Spring/Spring boot and Java 11/17.
 
 - 🦜 **Programming**
 
-| | name:        | language | what I have learned |
-|-| :----------: | :------: | ------------------- |
+|  | name:        | language | what I have learned |
+|--| :----------: | :------: | ------------------- |
 |🇬🇧| [fmz-english-trainer](https://github.com/filipmikolajzeglen/fmz-english-trainer) | JAVA | DDD, Vaadin, CSS, PostgreSQL, Flyway, Spring boot, Lombok, Design Patterns, Architecture patterns. Refresh skills. Work in progress 🚧 
 |🇬🇧| [fmz-video-player](https://github.com/filipmikolajzeglen/fmz-video-player) | JAVA | DDD, Java FX, Creating built-in databases and logging features. Understanding how media players works and understanding how to use a module-info in java project. 
-|🇬🇧| [game-of-life](https://github.com/filipmikolajzeglen/GOL) | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, advanced concurrency with futures and complex threads managements.
+|🇬🇧| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[game&nbsp;of&nbsp;life](https://github.com/filipmikolajzeglen/GOL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, advanced concurrency with futures and complex threads managements.
 
 - 🐊 **Programming - notes only**
 
@@ -21,8 +21,8 @@ Currently I'm focused on web development with Spring/Spring boot and Java 11/17.
 
 - 🦣 **Math, physics & engineering notes**
 
-| | name:    | what I have learned:|
-|-|:----------:|--------|
+|  | name:    | what I have learned:|
+|--|:----------:|--------|
 |🇵🇱| [math mature exam](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/matematyka-matura) | notes on all high school math material (learning from scratch from September 2017 to April 2018)
 |🇵🇱| [mathematical analysis](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/analiza-matematyczna) | granice, pochodne, całki niezonaczone, szeregi, szereg Taylora, całki oznaczone, funkcje wielu zmiennych, całki podwójne, potrójne, parametryzacja powierzchni, całki powierzchniowe skierowane, nieskierowane
 |🇵🇱| [algebra](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/algebra) | macierze, liczby zespolone, przestrzenie liniowe, przekształcenia liniowe
