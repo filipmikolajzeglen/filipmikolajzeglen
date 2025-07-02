@@ -1,35 +1,50 @@
-# Hi, I'm Filip 👋 
+# Hi, I'm Filip 👋
 
-<p align="left">Dear Recruiters - Please contact me via email/linkedin. 📫<br/>
-Currently I'm focused on web development with Spring/Spring boot and Java 11/17. 🎖</p>
+Until 2022, this page featured projects related to my university studies.
+That year, I graduated with a bachelor's degree in Applied Computer Science from AGH University of Science and
+Technology. Since then, I’ve transitioned into full-time work, shifting my focus from personal growth to solving
+real-world,
+high-impact challenges. Here, you can explore how my learning journey has evolved over time.
 
-## The complete list of my projects:
+I'm passionate about note-taking, and this space reflects that. You’ll find a wide range of notes, mostly centered
+around programming and scientific topics. 🚀
 
-- 🦜 **Programming**
+I approach problem-solving with a growth-oriented mindset. I believe every challenge is an opportunity to learn and
+improve. When others hesitate in the face of complexity, I aim to break things down and make them clear and approachable
+for everyone.
 
-|  | name:        | language | what I have learned |
-|--| :----------: | :------: | ------------------- |
-|🇬🇧| [fmz-english-trainer](https://github.com/filipmikolajzeglen/fmz-english-trainer) | JAVA | DDD, Vaadin, CSS, PostgreSQL, Flyway, Spring boot, Lombok, Design Patterns, Architecture patterns. Refresh skills. Work in progress 🚧 
-|🇬🇧| [fmz-video-player](https://github.com/filipmikolajzeglen/fmz-video-player) | JAVA | DDD, Java FX, Creating built-in databases and logging features. Understanding how media players works and understanding how to use a module-info in java project. 
-|🇬🇧| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[game&nbsp;of&nbsp;life](https://github.com/filipmikolajzeglen/GOL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | C++ | Advanced C++ : Smart pointers, shared_ptr, unique_ptr, templates, lambdas, enums, advanced concurrency with futures and complex threads managements.
+Feel free to get in touch 📧
 
-- 🐊 **Programming - notes only**
+## 🗃️ The complete list of my projects
 
-|  | name:      | what I have learned |
-|--| :--------: | ------------------- |
-|🇬🇧|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[js&nbsp;project](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [1. JavaScript](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript/javascript.md) (syntax and operators, handling asynchronous tasks). [2. React](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript/react.md) (Redux, React Router, react-sweet-state, DOM/ReactDOM, Hooks). [3. Speeding-up SPA](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/javascript/speeding-up-spa.md) (Single Page Application performance optimization) |
+- 🚧 Under development
+- ☄️ Impactful project
+- 💿 Not impactful but still cool project ( ͡° ͜ʖ ͡°)
+- 🎓 University
 
-- 🦣 **Math, physics & engineering notes**
+### 🦖 Programming
 
-|  | name:    | what I have learned:|
-|--|:----------:|--------|
-|🇵🇱| [math mature exam](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/matematyka-matura) | notes on all high school math material (learning from scratch from September 2017 to April 2018)
-|🇵🇱| [mathematical analysis](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/analiza-matematyczna) | granice, pochodne, całki niezonaczone, szeregi, szereg Taylora, całki oznaczone, funkcje wielu zmiennych, całki podwójne, potrójne, parametryzacja powierzchni, całki powierzchniowe skierowane, nieskierowane
-|🇵🇱| [algebra](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/algebra) | macierze, liczby zespolone, przestrzenie liniowe, przekształcenia liniowe
-|🇵🇱| [differential equations](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/rownania-rozniczkowe) | równania różniczkowe zwyczajne: RR. o zmienych rozdzielonych, RR. liniowe I rzędu, RR liniowe II rzędu, metoda uzmienniania stałych, metoda przewidywania
-|🇵🇱| [physics](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/fizyka) | kinematyka, dynamika, ruch po okręgu, drgania/fale, termodynamika, elektrostatyka, magnetyzm, optyka geometryczna, optyka falowa, podstawy optyki współczesnej
-|🇵🇱| [computer science fundamentals](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/podstawy-informatyki) | schematy blokowe, grafy, podstawy logiki
-|🇵🇱| [material engineering fundamentals](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/podstawy-inzynierii-materialowej) | układ żelazo-cementyt, stale stopowe, metale nieżelazne, własności mechaniczne, defekty sieci, przemiany przy nagrzewaniu i chłodzeniu, fazy
-|🇬🇧| [heat and mass transfer](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/old-school-style-notes/heat-and-mass-transfer) | heat, specific heat, heat flux, energy balance for different systems, conduction, convection, radiation, heat equation, initial condition, boundary conditions, dimensionless numbers, heat exchangers
-|🇬🇧| [computer networks](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/old-school-style-notes/computer-networks) | 5 layer TCP/IP model, networking devices, frames and datagrams, DHCP, IP protocol, IP addresses classes, subnetting and subnets masks, routing, TCP control flags, firewalls, DNS, TTL, domain names, NAT, VPN, proxy, wireless communication
-|🇬🇧|  [devops](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/devops/devops.md)  | Git, Docker, Jenkins |
+|    | Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Language | What I Have Learned                                                                                         |
+|:--:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------:|-------------------------------------------------------------------------------------------------------------|
+| ☄️ | [fmz-cqrs-core](https://github.com/filipmikolajzeglen/fmz-cqrs-core)                                                                                                   |   JAVA   | CQRS, Clean Architecture, Java Generics, API design, modularization, writing interceptors and dispatchers.  |
+| ☄️ | [fmz-cqrs-persistence](https://github.com/filipmikolajzeglen/fmz-cqrs-persistence)                                                                                     |   JAVA   | CQRS, JPA/Hibernate, persistence abstraction, strategy patterns, sealed interfaces, CriteriaQuery.          |
+| ☄️ | [fmz-cqrs-spring](https://github.com/filipmikolajzeglen/fmz-cqrs-spring)                                                                                               |   JAVA   | Spring Boot integration, bean configuration, modularization of CQRS, writing custom annotations.            |
+| ☄️ | [fmz-cqrs-micronaut](https://github.com/filipmikolajzeglen/fmz-cqrs-micronaut)                                                                                         |   JAVA   | Micronaut integration, DI, modularization of CQRS, writing custom annotations, tests with Micronaut.        |
+| 🚧 | [fmz-english-trainer](https://github.com/filipmikolajzeglen/fmz-english-trainer)                                                                                       |   JAVA   | DDD, Vaadin, CSS, PostgreSQL, Flyway, Spring Boot, Lombok, Design Patterns, Architecture Patterns.          |
+| 💿 | [fmz-video-player](https://github.com/filipmikolajzeglen/fmz-video-player)                                                                                             |   JAVA   | DDD, JavaFX, embedded databases, logging, Java modules, work with custom media player solution              |
+| 🎓 | [game of life](https://github.com/filipmikolajzeglen/GOL)                                                                                                              |   C++    | Advanced C++: smart pointers, templates, lambdas, concurrency, practical understanding of the game of life. |
+
+### 🦣 Engineering Notes
+
+|    | Name                                                                                                                                                                   | What I Have Learned                                                                                                        |
+|----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 🎓 | [algebra](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/algebra)                                                    | Matrices, complex numbers, linear spaces, linear transformations                                                           |
+| 🎓 | [computer networks](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/old-school-style-notes/computer-networks)                               | TCP/IP, networking devices, DHCP, IP, subnetting, routing, firewalls, DNS, NAT, VPN, proxy, wireless                       |
+| 🎓 | [computer science fundamentals](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/podstawy-informatyki)                 | Flowcharts, graphs, logic basics                                                                                           |
+| 🎓 | [devops](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/devops/devops.md)                                                                  | Git, Docker, Jenkins                                                                                                       |
+| 🎓 | [differential equations](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/rownania-rozniczkowe)                        | ODEs: separable, linear (1st/2nd order), variation of parameters, prediction method                                        |
+| 🎓 | [heat and mass transfer](https://github.com/filipmikolajzeglen/university-notes/tree/master/english/old-school-style-notes/heat-and-mass-transfer)                     | Heat, energy balance, conduction, convection, radiation, heat exchangers                                                   |
+| 🎓 | [mathematical analysis](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/analiza-matematyczna)                         | Limits, derivatives, integrals, series, Taylor series, multivariable functions, double/triple integrals, surface integrals |
+| 🎓 | [math mature exam](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/matematyka-matura)                                 | Complete high school math from scratch                                                                                     |
+| 🎓 | [material engineering fundamentals](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/podstawy-inzynierii-materialowej) | Iron-cementite system, alloys, non-ferrous metals, mechanical properties, defects, phase transitions                       |
+| 🎓 | [physics](https://github.com/filipmikolajzeglen/university-notes/tree/master/polish/old-school-style-notes/fizyka)                                                     | Kinematics, dynamics, circular motion, oscillations/waves, thermodynamics, electrostatics, magnetism, optics               |
